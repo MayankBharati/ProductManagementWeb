@@ -70,4 +70,4 @@ If you have any questions, suggestions, or feedback, please reach out to me at [
 
 ---
 
-Thank you for using the Product Management WebApp! We hope it helps you streamline your product management tasks effectively.
+Thank you.
