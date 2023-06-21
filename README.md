@@ -1,3 +1,4 @@
+![image](https://github.com/MayankBharati/ProductManagementWeb/assets/75744167/234f9a12-b9a1-4c34-8f99-5c4dd7785506)
 # Product Management WebApp (Java Spring Boot)
 
 The Product Management WebApp is a web-based application built using Java Spring Boot framework. It is designed to assist product managers in efficiently managing their products and related tasks. This README file provides an overview of the application, its features, installation instructions, and other important details.
@@ -13,7 +14,7 @@ The Product Management WebApp is a web-based application built using Java Spring
 4. **Task Management:** The application offers a task management system to help product managers stay organized. Users can create, assign, and track tasks related to specific products or product categories.
 
 ## Project Structure
-![image](https://github.com/MayankBharati/ProductManagementWeb/assets/75744167/ec49c948-aad3-427c-9706-0b6cf85a98d0)
+![image](https://github.com/MayankBharati/ProductManagementWeb/assets/75744167/3fa996e8-cb37-4ece-bafe-5cf150db2ac9)
 
 
 ## Installation
