@@ -42,7 +42,7 @@ To set up the Product Management WebApp on your local machine, follow these step
    java -jar target/product-management-webapp.jar
    ```
 
-6. Access the application. Open your web browser and navigate to `http://localhost:8080` to access the Product Management WebApp.
+6. Access the application. Open your web browser and navigate to `http://localhost:8090` to access the Product Management WebApp.
 
 ## Dependencies
 
